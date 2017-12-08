@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c3363c29-46e7-4268-a973-1c9317c47f85</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AlgoTri.py</StartupFile>
+    <StartupFile>AlgoTri-x.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AlgoTri.py" />
+    <Compile Include="AlgoTri-x.py" />
     <Compile Include="AlgoTri-Rapide.py">
       <SubType>Code</SubType>
     </Compile>
